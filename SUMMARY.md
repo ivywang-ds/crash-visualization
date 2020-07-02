@@ -1,11 +1,6 @@
 # Table of contents
 
-* [Preface](README.md)
-
-## Before Beginning <a id="before-beginning-1"></a>
-
-* [About the book](before-beginning-1/who-this-book-is-written-for-1.md)
-* [About the author](before-beginning-1/3.-about-author.md)
+* [About the book](README.md)
 
 ## Let's start!
 
