@@ -24,7 +24,7 @@
     * [2.5 Scatter Chart](tricks-in-visualisation/features-of-different-charts/2.5-scatter-chart.md)
     * [2.6  Map Chart](tricks-in-visualisation/features-of-different-charts/2.6-map-chart.md)
   * [3. Tricks in Visualization](tricks-in-visualisation/trick-2.md)
-  * [4. Do and Don't in Visualization](tricks-in-visualisation/trick-3.md)
+  * [4. Do's and Don'ts in Visualization](tricks-in-visualisation/trick-3.md)
 * [Part 3: Visualization  in Python](visualisation-in-python/README.md)
   * [Matplotlib](visualisation-in-python/matplotlib.md)
   * [Seaborn](visualisation-in-python/seaborn.md)
