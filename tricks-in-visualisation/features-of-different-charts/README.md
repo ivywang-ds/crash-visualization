@@ -1,5 +1,7 @@
 # 2. Features of Different Charts
 
+![](../../.gitbook/assets/1_rhfojxcs5yml0bijimommg.png)
+
 ## Content
 
 {% page-ref page="2.1-table.md" %}
