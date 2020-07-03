@@ -27,3 +27,12 @@ let's have a deeper look at the components of a Matplotlib figure.
 
 ![](../../.gitbook/assets/anatomy.webp)
 
+
+
+### Check and Quickstart
+
+```text
+import matplotlib.pyplot as plt   # import the data exploration package
+import numpy as np                # import the data computing package
+```
+
