@@ -122,7 +122,7 @@ plt.show()
 
 ![Stacked Bar Chart](../../.gitbook/assets/download-2.png)
 
-**Obviously, this is a bad choice.** Stacked bar can't show  the trends or difference clearly. Meanwhile. the stack makes y\_axis value non-sense.  Nobody grows to 3.5 metre!!
+**Obviously, this is a bad choice.** Stacked bar can't show  the trends nor difference clearly. Meanwhile. the stack makes y\_axis value non-sense.  Nobody grows to 3.5 metre!!
 
 So we should alternate to  **grouped bar chart.**
 
@@ -147,6 +147,10 @@ plt.show()
 ```
 
 ![Grouped Bar Chart](../../.gitbook/assets/download-3.png)
+
+Now, it looks  much better  and makes sense. Matplotlib is very basic way to illustrate relationship. 
+
+Later you will see shorter and simpler solutions in [Seaborn](../seaborn/), [Bokeh, ](../bokeh.md)and [Plotly](../plotly.md).
 
 ### Histogram Chart
 
