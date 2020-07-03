@@ -9,7 +9,7 @@ fig, ax = plt.subplots()  # Create a figure containing a single axes.
 ax.plot([1,2,3,4],[3,2,3,4]) # plot some  data on the axes
 ```
 
-![Output 1](../../.gitbook/assets/download%20%281%29.png)
+![Output 1](../../.gitbook/assets/download%20%282%29.png)
 
 {% hint style="warning" %}
 According to last chapter,   could you find the flaw of the chart?
@@ -79,9 +79,9 @@ plt.xticks(y_pos,student)       #Create names on the x-axis
 plt.show()
 ```
 
-![](../../.gitbook/assets/download-2.png)
+![Column Chart](../../.gitbook/assets/download-2%20%281%29.png)
 
-#### Horizontal column chart
+#### Horizontal Column Chart
 
 ```text
 # Create horizontal bars
@@ -89,5 +89,81 @@ plt.barh(y_pos, height)     # just add  a 'h' (horizontal)
 plt.yticks(y_pos,student)   # we need to set students'name on the y-axis
 ```
 
-![](../../.gitbook/assets/download.png)
+![Horizontal Column Chart](../../.gitbook/assets/download.png)
+
+{% hint style="info" %}
+**What to learn:**
+
+* **The difference of Stacked Column Chart and Grouped Column Chart**
+* **:Plot two groups of bar on one figure**
+* **Choose  the proper chart** 
+{% endhint %}
+
+#### Stacked Column Chart
+
+```text
+labels =['G1', 'G2', 'G3', 'G4']
+male_avg = [1.80,1.75, 1.84,1.7]
+female_avg =[1.75, 1.6, 1.70, 1.53]
+
+width =0.4   # set the width of the bars
+
+fig, ax = plt.subplots()
+ax.bar(labels, male_avg, width,  label ='Male')
+ax.bar(labels, female_avg, width,  bottom=  male_avg,
+       label='Female')
+       
+ax.set_ylabel('Average Height')
+ax.set_title('Height by group and gender')
+ax.legend()
+
+plt.show()
+```
+
+![Stacked Bar Chart](../../.gitbook/assets/download-2.png)
+
+**Obviously, this is a bad choice.** Stacked bar can't show  the trends or difference clearly. Meanwhile. the stack makes y\_axis value non-sense.  Nobody grows to 3.5 metre!!
+
+So we should alternate to  **grouped bar chart.**
+
+#### **Grouped Bar Chart**
+
+```text
+width =0.4
+x = np.arange(len(labels))  # the label locations
+
+fig, ax = plt.subplots()
+rects1 = ax.bar(x - width/2, male_avg, width, label='Male')
+rects2 = ax.bar(x + width/2, female_avg, width, label='Female')
+
+ax.set_xticks(x)
+ax.set_xticklabels(labels)  # set the categorical variable on x_axis
+       
+ax.set_ylabel('Average Height')
+ax.set_title('Height by group and gender')
+ax.legend()
+
+plt.show()
+```
+
+![Grouped Bar Chart](../../.gitbook/assets/download-3.png)
+
+### Histogram Chart
+
+```text
+x = [1,22,19,44,5,6,77,8,3,10,31,32,33,34,35,36,37,28,49,30,100]
+num_bins = 10
+
+plt.figure(figsize = (8,6))
+
+# Create hist, set color and color alpha (transparency)
+n, bins, patches = plt.hist(x, num_bins, facecolor='blue', alpha=0.5)
+
+plt.title('Histogram chart when bins = 10')  # set title name
+plt.ylabel('Count')                          # set ylabel name
+
+plt.show()
+```
+
+![](../../.gitbook/assets/download%20%281%29.png)
 
