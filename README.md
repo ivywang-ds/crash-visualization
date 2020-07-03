@@ -16,13 +16,7 @@ _June, 2020_
 
 My goal is make this book as helpful and user-friendly as possible. Any feedback is  welcome and appreciated. [ivy.w@veccoinsight.com](mailto:ivy.w@veccoinsight.com)
 
-\_\_
 
-\_\_
-
-\_\_
-
-\_\_
 
 \_\_
 
