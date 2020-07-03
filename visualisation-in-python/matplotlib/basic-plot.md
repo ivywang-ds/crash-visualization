@@ -146,11 +146,11 @@ ax.legend()
 plt.show()
 ```
 
+Now, it looks  much better  and makes sense. Matplotlib is very basic way to illustrate relationship.  Later you will see shorter and simpler solutions in [Seaborn](../seaborn/), [Bokeh, ](../bokeh.md)and [Plotly](../plotly.md).
+
 ![Grouped Bar Chart](../../.gitbook/assets/download-3.png)
 
-Now, it looks  much better  and makes sense. Matplotlib is very basic way to illustrate relationship. 
 
-Later you will see shorter and simpler solutions in [Seaborn](../seaborn/), [Bokeh, ](../bokeh.md)and [Plotly](../plotly.md).
 
 ### Histogram Chart
 
