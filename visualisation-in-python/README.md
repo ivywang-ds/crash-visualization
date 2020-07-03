@@ -1,8 +1,8 @@
-# Part 3: Visualization  in Python
+# Chapter 3: Visualization  in Python
 
 ![](../.gitbook/assets/1__dr91ijjb3uchqtuf2eloa.png)
 
-Content
+## Content
 
 {% page-ref page="matplotlib/" %}
 

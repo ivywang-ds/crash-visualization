@@ -1,4 +1,4 @@
-# Part 2: Tricks and Treats in Visualization
+# Chapter 2: Tricks and Treats in Visualization
 
 ![](../.gitbook/assets/1_2gjzfv_bczw7e8p1lbn2ng.png)
 

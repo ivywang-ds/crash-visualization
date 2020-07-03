@@ -1,2 +1,2 @@
-# Part 4: Visualization in R
+# Chapter 4: Visualization in R
 
