@@ -1,2 +1,2 @@
-# Chapter 5: Visualization application
+# Visualization Application
 

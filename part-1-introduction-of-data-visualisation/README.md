@@ -1,4 +1,4 @@
-# Chapter 1: Introduction  of Data Visualization
+# Introduction  of Data Visualization
 
 ![](../.gitbook/assets/what-is-data-visualization-blog-header.jpg)
 

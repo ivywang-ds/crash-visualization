@@ -1,4 +1,4 @@
-# Chapter 3: Visualization  in Python
+# Visualization  with Python
 
 ![](../.gitbook/assets/1__dr91ijjb3uchqtuf2eloa.png)
 
