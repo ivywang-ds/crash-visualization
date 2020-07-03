@@ -10,7 +10,7 @@ _June, 2020_
 
 **Visualization** is a powerful tool for telling a story about datasets or analysis. If done correctly, visualization not only displays data but also help the audience digest key information.
 
-**However, Bad communication is everywhere.** 
+**However, bad communication is everywhere.** 
 
 We are not ****naturally good at dealing with data or representing. We need to learn how to do  it properly and how to make it better**,** just like we learn other knowledge and skills. That is my intention to write this book.
 
