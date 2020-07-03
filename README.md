@@ -25,6 +25,8 @@ That's my main intention to write this book. Visualization is a powerful tool fo
 
 ## How this book is organized
 
+![](.gitbook/assets/hormonalbalance.jpg)
+
 ### **The book contained concept part and practical part.**
 
 * [Chapter 1 ](part-1-introduction-of-data-visualisation/)explains what data visualization is and why it matters
@@ -44,12 +46,4 @@ That's my main intention to write this book. Visualization is a powerful tool fo
 | Chapter 3 | Basic Python Programming |
 | Chapter 4 | Basic R Programming |
 | Chapter 5 | Advanced Python and R Programming |
-
-
-
-
-
-## About the author
-
-
 
