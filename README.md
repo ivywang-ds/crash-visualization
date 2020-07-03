@@ -10,9 +10,7 @@ We are living in an era of  information overload. Excess amounts of information 
 
 Despite great progress in our ability to collect and store data, we’re still very weak in interpreting data. In 1954, Darrell Huff wrote his best-selling book about how people often intentionally use graphs to spread misinformation, especially in favor of their own products or causes. Today, vastly more misinformation is disseminated unintentionally because people don’t know how to use charts to communicate what they intend.
 
-**Bad communication is everywhere.** We are not ****naturally good at dealing with data or representing. It's just like other knowledge and skills that we obtained during last 20 years. We need to learn how to do  it properly and how to make it better.
 
-That's my main intention to write this book. Visualization is a powerful tool for telling a story about a data set or analysis. If done correctly, visualization not only displays data but also help the audience digest key information.
 
 **The  book is for you**:
 

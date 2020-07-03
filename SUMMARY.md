@@ -1,6 +1,8 @@
 # Table of contents
 
 * [About the book](README.md)
+* [Welcome](welcome-1.md)
+* [Untitled](untitled.md)
 
 ## Let's start!
 
