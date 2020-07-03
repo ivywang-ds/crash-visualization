@@ -9,7 +9,7 @@ fig, ax = plt.subplots()  # Create a figure containing a single axes.
 ax.plot([1,2,3,4],[3,2,3,4]) # plot some  data on the axes
 ```
 
-![Output 1](../../.gitbook/assets/download.png)
+![Output 1](../../.gitbook/assets/download%20%281%29.png)
 
 {% hint style="warning" %}
 According to last chapter,   could you find the flaw of the chart?
@@ -32,5 +32,62 @@ If you forget the elements of plot, find it ****[**here**](https://app.gitbook.c
 
 ## Sample Plot
 
+### Lineplot
 
+{% hint style="info" %}
+**What to learn:**
+
+*  **Add multiple lines on one figure**
+* **Set  xlabel name and ylabel**  
+* **Set  title name**
+* **Set and show legend**
+{% endhint %}
+
+```text
+x = np.linspace(0, 3, 100)
+plt.plot(x, x, label='linear')       # Plot  'linear line' on axes.
+plt.plot(x, x**2, label='quadratic') # plot 'quadratic line' on the same axes
+plt.plot(x, x**3, label='cubic')     #etc
+plt.xlabel('this is x label')                      # set the xlabel
+plt.ylabel('this is y label')                      # set the ylabel
+plt.title('Multi-lines in one figure')             # set the title
+plt.legend()                         # show legend
+```
+
+![](../../.gitbook/assets/download-1.png)
+
+### Column Chart
+
+{% hint style="info" %}
+**What to learn:**
+
+* **Set figure size** 
+* **Plot with numerical  variables and categorical variables**
+* **Change column color**
+* **Create horizontal bar chart**
+{% endhint %}
+
+```text
+plt.figure(figsize = (8,6))                     # set the figure size
+
+performance = [70,95, 61, 88,82]                # y_axis values
+student = ['Mavin','Lily','Tim','Ben','Julian'] # x_axis values
+y_pos = np.arange(len(student))                 # calculate number of "student"
+
+plt.bar(y_pos,performance,color = 'orange')  # create bars, set the orange color 
+plt.xticks(y_pos,student)       #Create names on the x-axis
+plt.show()
+```
+
+![](../../.gitbook/assets/download-2.png)
+
+#### Horizontal column chart
+
+```text
+# Create horizontal bars
+plt.barh(y_pos, height)     # just add  a 'h' (horizontal)
+plt.yticks(y_pos,student)   # we need to set students'name on the y-axis
+```
+
+![](../../.gitbook/assets/download.png)
 
