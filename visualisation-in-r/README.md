@@ -1,2 +1,0 @@
-# Visualization with R
-
