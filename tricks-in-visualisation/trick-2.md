@@ -1,2 +1,2 @@
-# 3. Tricks in Visualization
+# 2.3 Tricks in Visualization
 

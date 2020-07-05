@@ -1,4 +1,4 @@
-# 2. Why does visualization matter?
+# 1.2  Why does visualization matter?
 
 **The world produces 2.5 quintillion bytes of data every day, and 90% of all data has been created in the last two years.** The increased popularity of big data and data analysis projects have made visualization more important than ever. It is unlikely for any single person to wade through data line-by-line and and make observations.
 

@@ -1,4 +1,4 @@
-# 1.6 Pie Chart
+# 3.6 Pie Chart
 
 A Pie Chart can only display one series of data. Pie charts show the size of items \(called wedge\) in one data series, proportional to the sum of the items.
 
@@ -47,7 +47,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Figure 1.6.1 Basic Pie Chart](../../.gitbook/assets/download-2%20%282%29.png)
+![Figure 1.6.1 Basic Pie Chart](../.gitbook/assets/download-2%20%282%29.png)
 
 Now  we have a basic pie chart. Of course it can be and should be presented better. 
 
@@ -68,7 +68,7 @@ plt.axis('equal')
 plt.title('Fancy Pie Chart')
 ```
 
-![Figure 1.6.2 Fancy Pie Chart](../../.gitbook/assets/fancy-pie.png)
+![Figure 1.6.2 Fancy Pie Chart](../.gitbook/assets/fancy-pie.png)
 
 ### Donut Chart
 
@@ -90,10 +90,10 @@ plt.axis('equal')
 plt.title('Donut Chart')
 ```
 
-![Figure 1.6.3 Donut Chart](../../.gitbook/assets/donut-chart.png)
+![Figure 1.6.3 Donut Chart](../.gitbook/assets/donut-chart.png)
 
 {% hint style="info" %}
-As we discussed  in [Features of Pie Chart,](../../tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)  Pie charts are poor at communicating data, especially for the complicated data.  Although it looks awesome, it  delivers less information than tables or column charts.
+As we discussed  in [Features of Pie Chart,](../tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)  Pie charts are poor at communicating data, especially for the complicated data.  Although it looks awesome, it  delivers less information than tables or column charts.
 
 * **Simple is better than complex.** 
 * **Readability counts.** Do not make it hard to read.

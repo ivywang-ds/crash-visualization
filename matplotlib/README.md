@@ -1,6 +1,8 @@
-# 1. Matplotlib
+# 3. Matplotlib
 
-![](../../.gitbook/assets/logo2_compressed.svg)
+
+
+![](../.gitbook/assets/logo2_compressed.svg)
 
 \*\*\*\*[**Matplotlib** ](https://matplotlib.org/tutorials/index.html)is a plotting library for the [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29) programming language and its numerical mathematics extension [NumPy](https://en.wikipedia.org/wiki/NumPy).  
 
@@ -25,7 +27,7 @@ Matplotlib graphs your data on ****[**`Figure`**](https://matplotlib.org/api/_as
 let's have a deeper look at the components of a Matplotlib figure.
 {% endhint %}
 
-![](../../.gitbook/assets/anatomy.webp)
+![](../.gitbook/assets/anatomy.webp)
 
 
 

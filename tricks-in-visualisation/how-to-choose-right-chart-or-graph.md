@@ -1,4 +1,4 @@
-# 1. How to Choose Appropriate Chart
+# 2.1 How to Choose Appropriate Chart
 
 ![](../.gitbook/assets/data_visualization_selecting_chart_type.jpg)
 

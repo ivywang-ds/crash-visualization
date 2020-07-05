@@ -1,4 +1,4 @@
-# 2. Features of Different Charts
+# 2.2 Features of Different Charts
 
 ![](../../.gitbook/assets/1_rhfojxcs5yml0bijimommg.png)
 
