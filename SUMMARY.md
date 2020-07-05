@@ -34,8 +34,6 @@
 * [4. Seaborn](seaborn/README.md)
   * [4.1 Evolution](seaborn/untitled-1/README.md)
     * [4.1.1. Line plot](seaborn/untitled-1/4.1.1.-line-plot.md)
-    * [4.1.2 Area plot](seaborn/untitled-1/4.1.2-area-plot.md)
-    * [4.1.3 Stream chart](seaborn/untitled-1/4.1.3-stream-chart.md)
   * [4.2 Ranking](seaborn/untitled-5/README.md)
     * [4.2.1 Barplot](seaborn/untitled-5/4.2.1-barplot.md)
     * [4.2.2 Lollipop plot](seaborn/untitled-5/4.2.2-lollipop-plot.md)
