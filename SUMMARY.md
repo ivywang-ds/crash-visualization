@@ -7,8 +7,6 @@
 * [Who the book is written for](preface/untitled-1.md)
 * [How the book is organized](preface/how-the-book-is-organized.md)
 
-## Let's start!
-
 ---
 
 * [1. Introduction  of Data Visualization](part-1-introduction-of-data-visualisation/README.md)
