@@ -60,8 +60,6 @@
     * [4.6.1 Bubble map](seaborn/untitled-2/4.6.1-bubble-map.md)
     * [4.6.2 Connection map](seaborn/untitled-2/4.6.2-connection-map.md)
     * [4.6.3 Choropleth map](seaborn/untitled-2/4.6.3-choropleth-map.md)
-  * [Untitled](seaborn/untitled.md)
-  * [Advanced  Plot](seaborn/advanced-plot.md)
   * [Embellishment](seaborn/embellishment.md)
 * [5. Bokeh](bokeh.md)
 * [6. Plotly](plotly.md)
