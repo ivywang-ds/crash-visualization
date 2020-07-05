@@ -26,7 +26,7 @@
   * [2.5 Do's and Don'ts in Visualization](tricks-in-visualisation/trick-3.md)
 * [3. Matplotlib](matplotlib/README.md)
   * [3.1 Basic Concepts](matplotlib/basic-plot.md)
-  * [3.2 Line Chart Plot](matplotlib/1.2-line-chart-plot.md)
+  * [3.2 Line Plot](matplotlib/1.2-line-chart-plot.md)
   * [3.3 Area Plot](matplotlib/3.3-area-plot.md)
   * [3.4 Column Chart Plot](matplotlib/1.3-column-chart-plot.md)
   * [3.5 Histogram Plot](matplotlib/1.4-histogram-plot.md)
