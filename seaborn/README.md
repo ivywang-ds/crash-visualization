@@ -25,7 +25,7 @@ pip install seaborn      # pip install
 conda install seaborn    # conda install 
 ```
 
-### Dependencies
+## Dependencies
 
 * [Python 3.6+](https://www.python.org/downloads/)
 * [numpy](https://numpy.org/) \(&gt;= 1.13.3\)
