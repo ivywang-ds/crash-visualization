@@ -1,4 +1,4 @@
-# 3.7 Pie Chart
+# 3.8 Pie Chart
 
 A Pie Chart can only display one series of data. Pie charts show the size of items \(called wedge\) in one data series, proportional to the sum of the items.
 
