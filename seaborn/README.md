@@ -14,8 +14,6 @@
 
 {% page-ref page="untitled-4/" %}
 
-{% page-ref page="untitled-2/" %}
-
 ## Installation
 
 To install the latest release of seaborn, you can use `pip`or `conda`

@@ -43,7 +43,7 @@ Then, we can plot a very simple line chart. Since we've already set all the aest
 sns.lineplot(data=df)
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-MB-ky7fVqjeXA6EcAbW%2F-MBTcGrhz-qfdEY-5vA_%2F-MBUVOBixLVQ1JeWlEvt%2F4%20lines%20plot.png?alt=media&token=66d762cf-8caa-450d-a5d3-3c7e5fb18d14)
+![](../.gitbook/assets/download%20%286%29.png)
 
 We can not only plot a full dataset, but also pieces of the dataset. For example, I will truncate two lists of data from the original dataset. One is in different period, the other is in the same period. Then we put them together by `plt.subplots()`‌
 
@@ -59,7 +59,7 @@ sns.lineplot(data=list1, ax=axes[0])   # plot list 1
 sns.lineplot(data=list2, ax=axes[1])   # plot list 2
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-MB-ky7fVqjeXA6EcAbW%2F-MBTcGrhz-qfdEY-5vA_%2F-MBUXW2FpoHEOZ-OWPoU%2Fdownload-2.png?alt=media&token=6b0b5b06-af4c-4680-8045-8ce4288edc08)
+![](../.gitbook/assets/lineplot2.png)
 
 ###  <a id="smart-plot"></a>
 
