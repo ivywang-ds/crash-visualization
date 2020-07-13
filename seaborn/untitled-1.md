@@ -1,6 +1,6 @@
 # 4.1 Trends
 
-### Quick start
+### 1. Quick start
 
 ```text
 import pandas as pd
@@ -24,7 +24,7 @@ You can set aesthetic parameters in one step by **`sns.set()`**
 * **style:** dict, None, or one of {**darkgrid, whitegrid, dark, white, ticks**}
 * **palette:** Color palette, see [`color_palette()`](https://seaborn.pydata.org/generated/seaborn.color_palette.html#seaborn.color_palette)​
 
-### Simple plot <a id="simple-plot"></a>
+### 2. Simple plot <a id="simple-plot"></a>
 
 Firstly, let us create a simple dataset. The head of the dataset looks as below:
 
@@ -63,7 +63,7 @@ sns.lineplot(data=list2, ax=axes[1])   # plot list 2
 
 ###  <a id="smart-plot"></a>
 
-### Smart plot <a id="smart-plot"></a>
+### 3. Smart plot <a id="smart-plot"></a>
 
 More complex datasets will have multiple measurements for the same value of the x variable. The default behavior in seaborn is to aggregate the multiple measurements at each x value by **plotting the mean and the 95% confidence interval** \( grey area\) around the mean. Let us take the "[fmri](https://github.com/mwaskom/seaborn-data/blob/master/fmri.csv)" dataset for example.
 
@@ -91,7 +91,7 @@ sns.lineplot(x="timepoint", y="signal", data=fmri, hue="region", style = "event"
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MB-ky7fVqjeXA6EcAbW%2F-MBTcGrhz-qfdEY-5vA_%2F-MBUPypOLsbtAFRtJq0r%2Fdownload.png?alt=media&token=d5377c14-29e1-462d-af36-f4e0f5c1fe79)
 
-### Facet plot <a id="facet-plot"></a>
+### 4. Facet plot <a id="facet-plot"></a>
 
 The chart above is quite complicated and not user-friendly. People need to read slowly and carefully to get the information. In this case, we need to consider another way to deliver same information but more clear.‌
 
