@@ -1,4 +1,4 @@
-# 2.5 Do's and Don'ts in Visualization
+# 2.5 Tips in Visualization
 
 ### A General Conclusion
 
