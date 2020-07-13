@@ -1,6 +1,6 @@
 # 3.1 Basic Concepts
 
-### 1.1.1 Figure and Axes 
+### 1.  Figure and Axes 
 
 For all Matplotlib plots, we start by creating a figure and an axes. In their simplest form, a figure and axes can be created as follows:
 
@@ -22,7 +22,7 @@ ax3 = plt.axes([0.2,0.2,0.2,0.2])      # create the third axes
 
 ![Figure 1.1.1b Axes](../.gitbook/assets/axes.png)
 
-### 1.1.2 Oriented Object 
+### 2. Oriented Object 
 
 Matplotlib graphs your data on [`Figure`](https://matplotlib.org/api/_as_gen/matplotlib.figure.Figure.html#matplotlib.figure.Figure)s \(i.e., windows, Jupyter widgets, etc.\), each of which can contain one or more [`Axes`](https://matplotlib.org/api/axes_api.html#matplotlib.axes.Axes) \(i.e., an area where points can be specified in terms of x-y coordinates. It's called **object-oriented.**  In other words, ****you need to create objects.
 
@@ -40,7 +40,7 @@ ax.plot(x, np.sin(x)) # plot a sine line on the axes
 According to last chapter,   could you find the flaw of the chart?
 {% endhint %}
 
-### 1.1.3 Pyplot 
+### 3.  Pyplot 
 
 There is a corresponding function in the [`matplotlib.pyplot`](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html#module-matplotlib.pyplot) module that performs that plot on the "current" axes, creating that axes \(and its parent figure\) if they don't exist. So the previous example can be written more shortly as
 

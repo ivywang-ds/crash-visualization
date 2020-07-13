@@ -32,7 +32,7 @@ A Pie Chart can only display one series of data. Pie charts show the size of ite
   </tbody>
 </table>
 
-### Basic Pie Chart
+### 1. Basic Pie Chart
 
 ```text
 plt.figure(1,figsize = (6,6))
@@ -53,7 +53,7 @@ Now  we have a basic pie chart. Of course it can be and should be presented bett
 
 For example, the legend position is weird and overlapped  with the pie. Also, we  can not see  any numbers from it  and we don't know which part we should focus on.  Therefore, Let's do some change.
 
-### Fancy Pie Chart
+### 2. Fancy Pie Chart
 
 ```text
 plt.figure(1,figsize = (6,6))
@@ -70,7 +70,7 @@ plt.title('Fancy Pie Chart')
 
 ![Figure 1.6.2 Fancy Pie Chart](../.gitbook/assets/fancy-pie.png)
 
-### Donut Chart
+### 3. Donut Chart
 
 ```text
 plt.figure(1,figsize = (6,6))
