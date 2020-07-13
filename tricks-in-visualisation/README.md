@@ -8,9 +8,5 @@
 
 {% page-ref page="features-of-different-charts/" %}
 
-{% page-ref page="trick-2.md" %}
-
-{% page-ref page="trick-3.md" %}
-
 
 
