@@ -20,7 +20,7 @@ ax2 = plt.axes([0.5, 0.5, 0.3, 0.3])   # create the second axes
 ax3 = plt.axes([0.2,0.2,0.2,0.2])      # create the third axes
 ```
 
-![Figure 1.1.1b Axes](../.gitbook/assets/axes.png)
+![ Axes](../.gitbook/assets/axes.png)
 
 ### 2. Oriented Object 
 
@@ -34,7 +34,7 @@ x = np.linspace(0, 10, 100)
 ax.plot(x, np.sin(x)) # plot a sine line on the axes
 ```
 
-![Figure 1.1.2 Simple Oriented Object way](../.gitbook/assets/oo-simple-plot.png)
+![ Simple Oriented Object way](../.gitbook/assets/oo-simple-plot.png)
 
 {% hint style="warning" %}
 According to last chapter,   could you find the flaw of the chart?

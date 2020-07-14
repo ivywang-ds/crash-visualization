@@ -47,7 +47,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Figure 1.6.1 Basic Pie Chart](../.gitbook/assets/download-2%20%282%29.png)
+![Basic Pie Chart](../.gitbook/assets/download-2%20%282%29.png)
 
 Now  we have a basic pie chart. Of course it can be and should be presented better. 
 
@@ -68,7 +68,7 @@ plt.axis('equal')
 plt.title('Fancy Pie Chart')
 ```
 
-![Figure 1.6.2 Fancy Pie Chart](../.gitbook/assets/fancy-pie.png)
+![Fancy Pie Chart](../.gitbook/assets/fancy-pie.png)
 
 ### 3. Donut Chart
 
@@ -90,7 +90,7 @@ plt.axis('equal')
 plt.title('Donut Chart')
 ```
 
-![Figure 1.6.3 Donut Chart](../.gitbook/assets/donut-chart.png)
+![ Donut Chart](../.gitbook/assets/donut-chart.png)
 
 {% hint style="info" %}
 As we discussed  in [Features of Pie Chart,](../tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)  Pie charts are poor at communicating data, especially for the complicated data.  Although it looks awesome, it  delivers less information than tables or column charts.

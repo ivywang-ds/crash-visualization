@@ -10,8 +10,6 @@
 
 {% page-ref page="2.3-tricks-in-visualization.md" %}
 
-{% page-ref page="2.4-bad-charts.md" %}
-
 {% page-ref page="2.5-dos-and-donts-in-visualization.md" %}
 
 
