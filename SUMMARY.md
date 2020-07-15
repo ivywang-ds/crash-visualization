@@ -69,4 +69,5 @@
   * [5.8 Linking and Interactions](bokeh/5.8-linking-and-interactions.md)
 * [6. Plotly](plotly.md)
 * [7. Streamlit](visualisation-application.md)
+* [Support and Donation](support-and-donation.md)
 
