@@ -66,7 +66,7 @@
   * [5.5 Presentation and Layouts](bokeh/5.5-presentation-and-layouts.md)
   * [5.6 Linking and Interactions](bokeh/5.8-linking-and-interactions.md)
   * [5.7 Network Graph](bokeh/5.6-network-graph.md)
-  * [5.8 Mapping Geo Data](bokeh/5.7-mapping-geo-data.md)
+  * [5.8 Build an application](bokeh/5.8-build-an-application.md)
 * [6. Plotly](plotly.md)
 * [7. Streamlit](visualisation-application.md)
 
