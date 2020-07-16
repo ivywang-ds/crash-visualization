@@ -64,9 +64,9 @@
   * [5.3 Annotations](bokeh/5.3-annotations.md)
   * [5.4 Categorical Data](bokeh/5.4-categorical-data.md)
   * [5.5 Presentation and Layouts](bokeh/5.5-presentation-and-layouts.md)
-  * [5.6 Network Graph](bokeh/5.6-network-graph.md)
-  * [5.7 Mapping Geo Data](bokeh/5.7-mapping-geo-data.md)
-  * [5.8 Linking and Interactions](bokeh/5.8-linking-and-interactions.md)
+  * [5.6 Linking and Interactions](bokeh/5.8-linking-and-interactions.md)
+  * [5.7 Network Graph](bokeh/5.6-network-graph.md)
+  * [5.8 Mapping Geo Data](bokeh/5.7-mapping-geo-data.md)
 * [6. Plotly](plotly.md)
 * [7. Streamlit](visualisation-application.md)
 
