@@ -41,11 +41,11 @@ Standard import and check whether the installation is completed.
 
 {% page-ref page="5.4-categorical-data.md" %}
 
+{% page-ref page="5.8-linking-and-interactions.md" %}
+
 {% page-ref page="5.5-presentation-and-layouts.md" %}
 
 {% page-ref page="5.6-network-graph.md" %}
-
-{% page-ref page="5.8-linking-and-interactions.md" %}
 
 
 

@@ -66,8 +66,5 @@
   * [5.8 Build an application](bokeh/5.8-build-an-application.md)
 * [6. Plotly](plotly.md)
 * [7. Streamlit](visualisation-application.md)
-
-## Support
-
-* [Donation](support/support-and-donation.md)
+* [Donate](support-and-donation.md)
 
