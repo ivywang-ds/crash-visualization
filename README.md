@@ -16,7 +16,7 @@ We are not ****naturally good at dealing with data or representing. We need to l
 
 ![Book Cover](.gitbook/assets/crash-visualization.png)
 
-My goal is make this book as helpful and user-friendly as possible. Any feedback is  welcome and appreciated. [ivy.w@veccoinsight.com](mailto:ivy.w@veccoinsight.com)
+My goal is to make this book as helpful and user-friendly as possible. Any feedback is  welcome and appreciated. [ivy.w@veccoinsight.com](mailto:ivy.w@veccoinsight.com)
 
 
 

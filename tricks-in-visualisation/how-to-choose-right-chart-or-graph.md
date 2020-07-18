@@ -1,12 +1,12 @@
-# 2.1 How to Choose Appropriate Chart
+# 2.1 Choose Appropriate Chart
 
 ![](../.gitbook/assets/data_visualization_selecting_chart_type.jpg)
 
-Making sense of facts, numbers, and measurements is a form of art – the art of **data visualization**. To turn your numbers into solid findings, your job is not only to present insights, but also to present it the right way.
+Making sense of facts, numbers, and measurements is a form of art – the art of **data visualization**. To turn your numbers into solid findings, your job is not only to present insights but also to present it the right way.
 
 ### **Basic presentation types** 
 
-There are four basic presentation types that you can use to present your data. Most commonly used types of data analysis: **Comparison and Composition.**
+There are four basic presentation types that you can use to present your data. The most commonly used types of data analysis: **Comparison and Composition.**
 
 * Comparison
 * Composition
