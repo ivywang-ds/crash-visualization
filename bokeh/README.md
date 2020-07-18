@@ -15,7 +15,7 @@ To offer both simplicity and the powerful and flexible features needed for advan
 
 ### 2. Installation
 
-There are multiple ways to install Bokeh, and the easiest one is to use Anoconda
+There are multiple ways to install Bokeh, and the easiest one is to use Anaconda
 
 ```text
 conda install bokeh
@@ -27,7 +27,7 @@ If you are confident that you have installed all needed dependencies, you may in
 pip install bokeh
 ```
 
-Standard import  and check whether the  installation is completed.
+Standard import and check whether the installation is completed.
 
 ![](../.gitbook/assets/screenshot-2020-07-14-at-17.01.00.png)
 
