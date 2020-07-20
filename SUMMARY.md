@@ -34,6 +34,7 @@
   * [3.8 Pie Chart](matplotlib/untitled.md)
   * [3.9 Venn Chart](matplotlib/3.9-venn-chart.md)
   * [3.10 Waffle Chart](matplotlib/3.10-waffle-chart.md)
+  * [3.11 Animation](matplotlib/3.11-animation.md)
 * [4. Seaborn](seaborn/README.md)
   * [4.1 Trends](seaborn/untitled-1.md)
   * [4.2 Ranking](seaborn/untitled-5/README.md)
