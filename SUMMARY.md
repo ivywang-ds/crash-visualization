@@ -64,7 +64,6 @@
   * [5.7 Network Graph](bokeh/5.6-network-graph.md)
   * [5.8 Widgets](bokeh/5.8-build-an-application.md)
 * [6. Plotly](plotly.md)
-* [7. Streamlit](visualisation-application.md)
 * [Donate](support-and-donation.md)
 
 ## Support
