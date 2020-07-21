@@ -33,19 +33,16 @@ Standard import and check whether the installation is completed.
 
 ### 3. Content
 
-{% page-ref page="5.1-basic-plotting.md" %}
+* [5.1 Basic Plotting](5.1-basic-plotting.md)
+* [5.2 Data Source](5.2-data-sources.md)
+* [5.3 Annotations](5.3-annotations.md)
+* [5.4 Categorical Data](5.4-categorical-data.md)
+* [5.5 Presentation and Layouts](5.5-presentation-and-layouts.md)
+* [5.6 Linking and Interactions](5.8-linking-and-interactions.md)
+* [5.7 Network Graph](5.6-network-graph.md)
+* [5.8 Build An Application](5.8-build-an-application.md)
 
-{% page-ref page="5.2-data-sources.md" %}
 
-{% page-ref page="5.3-annotations.md" %}
-
-{% page-ref page="5.4-categorical-data.md" %}
-
-{% page-ref page="5.8-linking-and-interactions.md" %}
-
-{% page-ref page="5.5-presentation-and-layouts.md" %}
-
-{% page-ref page="5.6-network-graph.md" %}
 
 
 

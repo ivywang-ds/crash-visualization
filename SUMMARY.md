@@ -14,7 +14,7 @@
   * [1.2  Why does visualization matter?](part-1-introduction-of-data-visualisation/why-visualisation-is-important.md)
 * [2. Tricks in Visualization](tricks-in-visualisation/README.md)
   * [2.1 Choose Appropriate Chart](tricks-in-visualisation/how-to-choose-right-chart-or-graph.md)
-  * [2.2 Features of Different Charts](tricks-in-visualisation/features-of-different-charts/README.md)
+  * [2.2 Features of Charts](tricks-in-visualisation/features-of-different-charts/README.md)
     * [2.2.1 Table](tricks-in-visualisation/features-of-different-charts/2.1-table.md)
     * [2.2.2 Column Chart](tricks-in-visualisation/features-of-different-charts/2.2-column-chart.md)
     * [2.2.3 Line Chart](tricks-in-visualisation/features-of-different-charts/2.3-line-chart.md)

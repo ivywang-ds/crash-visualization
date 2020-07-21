@@ -4,13 +4,10 @@
 
 ## **Content**
 
-{% page-ref page="how-to-choose-right-chart-or-graph.md" %}
-
-{% page-ref page="features-of-different-charts/" %}
-
-{% page-ref page="2.3-tricks-in-visualization.md" %}
-
-{% page-ref page="2.5-dos-and-donts-in-visualization.md" %}
+* [2.1 Choose Appropriate Chart](how-to-choose-right-chart-or-graph.md)
+* [2.2 Features of Charts](features-of-different-charts/)
+* [2.3 Misleading Graph](2.3-tricks-in-visualization.md)
+* [2.4 Tips in Visualization](2.5-dos-and-donts-in-visualization.md)
 
 
 

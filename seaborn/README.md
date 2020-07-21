@@ -6,15 +6,11 @@
 
 ## Content
 
-{% page-ref page="untitled-1.md" %}
-
-{% page-ref page="untitled-5/" %}
-
-{% page-ref page="untitled-6/" %}
-
-{% page-ref page="untitled-4/" %}
-
-{% page-ref page="untitled-3/" %}
+* [4.1 Trends](untitled-1.md)
+* [4.2 Ranking](untitled-5/)
+* [4.3 Composition](untitled-6/)
+* [4.4 Correlation](untitled-4/)
+* [4.5 Distribution](untitled-3/)
 
 
 
