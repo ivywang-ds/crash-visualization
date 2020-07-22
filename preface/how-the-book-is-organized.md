@@ -9,7 +9,7 @@
 * [Chapter 3](../matplotlib/) is a tutorial on Matplotlib package
 * [Chapter 4 ](../seaborn/)is a tutorial on Seaborn package
 * [Chapter 5](../bokeh/) is a tutorial on Bokeh
-* [Chapter 6 ](../plotly.md)is a tutorial on Plotly
+* [Chapter 6 ](../plotly/)is a tutorial on Plotly
 
 ### Prerequisite
 

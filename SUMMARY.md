@@ -63,7 +63,14 @@
   * [5.6 Linking and Interactions](bokeh/5.8-linking-and-interactions.md)
   * [5.7 Network Graph](bokeh/5.6-network-graph.md)
   * [5.8 Widgets](bokeh/5.8-build-an-application.md)
-* [6. Plotly](plotly.md)
+* [6. Plotly](plotly/README.md)
+  * [6.1 Fundamental Concepts](plotly/6.1-fundamental-concepts/README.md)
+    * [6.1.1 Plotly Express](plotly/6.1-fundamental-concepts/6.1.1-plotly-express.md)
+    * [6.1.2 Plotly Graph Objects](plotly/6.1-fundamental-concepts/6.1.2-plotly-graph-objects.md)
+  * [6.2 Basic Charts](plotly/6.2-basic-charts.md)
+  * [6.3 Statistical Charts](plotly/6.3-statistical-charts.md)
+  * [6.4 Scientific Charts](plotly/6.4-scientific-charts.md)
+  * [6.5 Financial Charts](plotly/6.5-financial-charts.md)
 * [Donate](support-and-donation.md)
 
 ## Support
