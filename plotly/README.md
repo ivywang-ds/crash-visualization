@@ -17,8 +17,7 @@ conda install -c plotly plotly=4.9.0  # conda installation
 ### Content
 
 * [6.1 Fundamental Concepts](6.1-fundamental-concepts/)
-* [6.2 Basic Charts](6.2-basic-charts.md)
+* [6.2 Basic Charts](6.2-basic-charts/)
 * [6.3 Statistical Charts](6.3-statistical-charts.md)
-* [6.4 Scientific Charts](6.4-scientific-charts.md)
 * [6.5 Financial Charts](6.5-financial-charts.md)
 

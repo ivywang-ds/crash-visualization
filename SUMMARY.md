@@ -67,10 +67,14 @@
   * [6.1 Fundamental Concepts](plotly/6.1-fundamental-concepts/README.md)
     * [6.1.1 Plotly Express](plotly/6.1-fundamental-concepts/6.1.1-plotly-express.md)
     * [6.1.2 Plotly Graph Objects](plotly/6.1-fundamental-concepts/6.1.2-plotly-graph-objects.md)
-  * [6.2 Basic Charts](plotly/6.2-basic-charts.md)
+  * [6.2 Basic Charts](plotly/6.2-basic-charts/README.md)
+    * [6.2.1 Advanced Scatter Chart](plotly/6.2-basic-charts/6.2.1-advanced-scatter-chart.md)
+    * [6.2.2 Advanced Bar Chart](plotly/6.2-basic-charts/6.2.2-advanced-bar-chart.md)
+    * [6.2.3 Advanced Pie Chart](plotly/6.2-basic-charts/6.2.3-advanced-pie-chart.md)
+    * [6.2.4 Sankey Chart](plotly/6.2-basic-charts/6.2.4-sankey-chart.md)
+    * [6.2.5 Tables](plotly/6.2-basic-charts/6.2.5-tables.md)
   * [6.3 Statistical Charts](plotly/6.3-statistical-charts.md)
-  * [6.4 Scientific Charts](plotly/6.4-scientific-charts.md)
-  * [6.5 Financial Charts](plotly/6.5-financial-charts.md)
+  * [6.4 Financial Charts](plotly/6.5-financial-charts.md)
 
 ## Support
 
