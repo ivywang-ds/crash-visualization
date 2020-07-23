@@ -71,7 +71,6 @@
   * [6.3 Statistical Charts](plotly/6.3-statistical-charts.md)
   * [6.4 Scientific Charts](plotly/6.4-scientific-charts.md)
   * [6.5 Financial Charts](plotly/6.5-financial-charts.md)
-* [Donate](support-and-donation.md)
 
 ## Support
 
