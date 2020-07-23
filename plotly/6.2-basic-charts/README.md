@@ -1,2 +1,2 @@
-# 6.2 Basic Charts
+# 6.2 Advanced Charts
 
