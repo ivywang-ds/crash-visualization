@@ -74,7 +74,10 @@
     * [6.2.4 Sankey Chart](plotly/6.2-basic-charts/6.2.4-sankey-chart.md)
     * [6.2.5 Tables](plotly/6.2-basic-charts/6.2.5-tables.md)
   * [6.3 Statistical Charts](plotly/6.3-statistical-charts.md)
-  * [6.4 Financial Charts](plotly/6.5-financial-charts.md)
+  * [6.4 Financial Charts](plotly/6.5-financial-charts/README.md)
+    * [6.4.1 Funnel Chart](plotly/6.5-financial-charts/6.4.1-funnel-chart.md)
+    * [6.4.2 Candlestick Chart](plotly/6.5-financial-charts/6.4.2-candlestick-chart.md)
+    * [6.4.3 Waterfall Chart](plotly/6.5-financial-charts/6.4.3-waterfall-chart.md)
 
 ## Support
 
