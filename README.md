@@ -4,7 +4,7 @@
 
 _Ivy  Wang_
 
-_June, 2020_
+_June 2020_
 
 \_\_
 
@@ -12,11 +12,11 @@ _June, 2020_
 
 **However, bad communication is everywhere.** 
 
-We are not ****naturally good at dealing with data or representing. We need to learn how to do  it properly and how to make it better**,** just like we learn other knowledge and skills. That is my intention to write this book.
+We are not ****naturally good at dealing with data or representing. We need to learn how to do it properly and how to make it better**,** just like we learn other knowledge and skills. That is my intention to write this book.
 
 ![Book Cover](.gitbook/assets/crash-visualization.png)
 
-My goal is to make this book as helpful and user-friendly as possible. Any feedback is  welcome and appreciated. [ivy.w@veccoinsight.com](mailto:ivy.w@veccoinsight.com)
+My goal is to make this book as helpful and user-friendly as possible. Any feedback is welcome and appreciated. [ivy.w@veccoinsight.com](mailto:ivy.w@veccoinsight.com)
 
 
 
