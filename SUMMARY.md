@@ -78,6 +78,7 @@
     * [6.3.2 Tree Charts](plotly/6.3-statistical-charts/6.3.2-tree-charts.md)
     * [6.3.3 Radar Chart](plotly/6.3-statistical-charts/6.3.3-radar-chart.md)
     * [6.3.4 Polar Chart](plotly/6.3-statistical-charts/6.3.4-polar-chart.md)
+    * [6.3.5 Streamline Chart](plotly/6.3-statistical-charts/6.3.5-streamline-chart.md)
   * [6.4 Financial Charts](plotly/6.5-financial-charts/README.md)
     * [6.4.1 Funnel Chart](plotly/6.5-financial-charts/6.4.1-funnel-chart.md)
     * [6.4.2 Candlestick Chart](plotly/6.5-financial-charts/6.4.2-candlestick-chart.md)
