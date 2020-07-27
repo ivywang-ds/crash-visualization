@@ -45,10 +45,10 @@ sns.lineplot(data=df)
 
 ![](../.gitbook/assets/download%20%287%29.png)
 
-We can not only plot a full dataset, but also pieces of the dataset. For example, I will truncate two lists of data from the original dataset. One is in different period, the other is in the same period. Then we put them together by `plt.subplots()`‌
+We can not only plot a full dataset, but also pieces of the dataset. For example, I will truncate two lists of data from the original dataset. One is in a different period, the other is in the same period. Then we put them together by `plt.subplots()`‌
 
-* a and b are different lines in different period.
-* c and c are different lines in same period.
+* a and b are different lines in different periods.
+* c and c are different lines in the same period.
 
 ```text
 list1 = [df.loc[:"2015", "a"], df.loc["2015":, "b"]]
@@ -76,9 +76,9 @@ sns.lineplot(x="timepoint", y="signal",  data=fmri)        # line plot
 
 The relationship between `x` and `y` can be shown for different subsets of the data using the `hue`, `size`, and `style` parameters. These parameters control what visual semantics are used to identify the different subsets.
 
-* **hue:** Grouping variable that will produce lines with different colors. Can be either categorical or numeric, although color mapping will behave differently in latter case.
-* **size:** Grouping variable that will produce lines with different widths. Can be either categorical or numeric, although size mapping will behave differently in latter case.
-* **style:** Grouping variable that will produce lines with different dashes and/or markers. Can have a numeric dtype but will always be treated as categorical.
+* **hue:** Grouping variable that will produce lines with different colors. Can be either categorical or numeric, although color mapping will behave differently in the latter case.
+* **size:** Grouping variable that will produce lines with different widths. Can be either categorical or numeric, although size mapping will behave differently in the latter case.
+* **style:** Grouping variable that will produce lines with different dashes and/or markers. Can have a numeric type but will always be treated as categorical.
 
 ‌
 
@@ -93,9 +93,9 @@ sns.lineplot(x="timepoint", y="signal", data=fmri, hue="region", style = "event"
 
 ### 4. Facet plot <a id="facet-plot"></a>
 
-The chart above is quite complicated and not user-friendly. People need to read slowly and carefully to get the information. In this case, we need to consider another way to deliver same information but more clear.‌
+The chart above is quite complicated and not user-friendly. People need to read slowly and carefully to get the information. In this case, we need to consider another way to deliver the same information but more clear.‌
 
-​[`FacetGrid`](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid)is a useful approach is to draw multiple instances of the same plot on different subsets of dataset. It allows a viewer to quickly extract a large amount of information about complex data.‌
+​[`FacetGrid`](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid)is a useful approach is to draw multiple instances of the same plot on different subsets of the dataset. It allows a viewer to quickly extract a large amount of information about complex data.‌
 
 We can Use [`relplot()`](https://seaborn.pydata.org/generated/seaborn.relplot.html#seaborn.relplot) to combine [`lineplot()`](https://seaborn.pydata.org/generated/seaborn.lineplot.html#seaborn.lineplot) and [`FacetGrid`](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid)​
 
