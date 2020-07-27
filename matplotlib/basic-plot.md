@@ -2,14 +2,14 @@
 
 ### 1.  Figure and Axes 
 
-For all Matplotlib plots, we start by creating a figure and an axes. In their simplest form, a figure and axes can be created as follows:
+For all Matplotlib plots, we start by creating a figure and axes. In their simplest form, a figure and axes can be created as follows:
 
 ```text
 fig = plt.figure()
 ax = plt.axes()
 ```
 
-![Figure 1.1.1a  Blank Figure](../.gitbook/assets/blank-figure.png)
+![ Blank Figure](../.gitbook/assets/blank-figure.png)
 
 For better understanding **axes**, here is an example, we can plot several axes in one figure
 
@@ -37,7 +37,7 @@ ax.plot(x, np.sin(x)) # plot a sine line on the axes
 ![ Simple Oriented Object way](../.gitbook/assets/oo-simple-plot.png)
 
 {% hint style="warning" %}
-According to last chapter,   could you find the flaw of the chart?
+According to the last chapter,   could you find the flaw of the chart?
 {% endhint %}
 
 ### 3.  Pyplot 
@@ -51,7 +51,7 @@ plt.plot([1,2,3,4],[3,2,3,4])  # pyplot way
 As noted above, there are essentially two ways to use Matplotlib:
 
 * Explicitly create figures and axes, and call methods on them \(the "object-oriented \(OO\) style"\).
-* Rely on pyplot to automatically create and manage the figures and axes, and use pyplot functions for plotting.
+* Rely on `pyplot` to automatically create and manage the figures and axes, and use `pyplot` functions for plotting.
 
 {% hint style="info" %}
 If you forget the elements of plot, find it ****[**here**](https://app.gitbook.com/@ivy-wang/s/crash-visulisation/~/drafts/-MBLFg0lOJc2yNX6jGoq/visualisation-in-python/matplotlib#parts-of-figure)

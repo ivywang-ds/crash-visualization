@@ -20,7 +20,7 @@ There are four basic presentation types that you can use to present your data. T
 
 ### Selecting the Right Chart
 
-Inappropriate visualization could mislead your audience, distort your interpretation, and even undermine your credibility. To determine which chart is best suited for each of those presentation types, you should first understand what information you are  planning to present and why you need a graph.
+Inappropriate visualization could mislead your audience, distort your interpretation, and even undermine your credibility. To determine which chart is best suited for each of those presentation types, you should first understand what information you are planning to present and why you need a graph.
 
 **Ask yourself a few questions:**
 

@@ -20,12 +20,12 @@ A Pie Chart can only display one series of data. Pie charts show the size of ite
     </tr>
     <tr>
       <td style="text-align:left">colors</td>
-      <td style="text-align:left">A sequence of matplotlibcolorargs through which the pie chart will cycle.</td>
+      <td style="text-align:left">A sequence of matplotlib color args through which the pie chart will cycle.</td>
     </tr>
     <tr>
       <td style="text-align:left">autopac</td>
       <td style="text-align:left">
-        <p>A string, used to label the wedges with their numeric value.</p>
+        <p>A string used to label the wedges with their numeric value.</p>
         <p>The label will be placed inside the wedge.</p>
       </td>
     </tr>
@@ -49,9 +49,9 @@ plt.show()
 
 ![Basic Pie Chart](../.gitbook/assets/download-2%20%282%29.png)
 
-Now  we have a basic pie chart. Of course it can be and should be presented better. 
+Now we have a basic pie chart. Of course, it can be and should be presented better. 
 
-For example, the legend position is weird and overlapped  with the pie. Also, we  can not see  any numbers from it  and we don't know which part we should focus on.  Therefore, Let's do some change.
+For example, the legend position is weird and overlapped with the pie. Also, we can not see any numbers from it and we don't know which part we should focus on.  Therefore, Let's do some changes.
 
 ### 2. Fancy Pie Chart
 
@@ -93,7 +93,7 @@ plt.title('Donut Chart')
 ![ Donut Chart](../.gitbook/assets/donut-chart.png)
 
 {% hint style="info" %}
-As we discussed  in [Features of Pie Chart,](../tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)  Pie charts are poor at communicating data, especially for the complicated data.  Although it looks awesome, it  delivers less information than tables or column charts.
+As we discussed in [Features of Pie Chart,](../tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)  Pie charts are poor at communicating data, especially for complicated data.  Although it looks awesome, it delivers less information than tables or column charts.
 
 * **Simple is better than complex.** 
 * **Readability counts.** Do not make it hard to read.
