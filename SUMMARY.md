@@ -41,7 +41,7 @@
     * [4.2.1 Barplot](seaborn/untitled-5/4.2.1-barplot.md)
     * [4.2.2 Boxplot](seaborn/untitled-5/4.2.2-lollipop-plot.md)
   * [4.3 Composition](seaborn/untitled-6/README.md)
-    * [4.3.1 Tree plot](seaborn/untitled-6/4.3.1-tree-plot.md)
+    * [4.3.3 Stacked Chart](seaborn/untitled-6/4.3.3-stacked-chart.md)
     * [4.3.2 Tree diagram](seaborn/untitled-6/4.3.2-tree-diagram.md)
   * [4.4 Correlation](seaborn/untitled-4/README.md)
     * [4.4.1 Scatter Plot](seaborn/untitled-4/4.4.1-scatter-plot.md)
