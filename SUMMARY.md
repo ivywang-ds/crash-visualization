@@ -21,7 +21,7 @@
     * [2.2.4 Pie Chart](tricks-in-visualisation/features-of-different-charts/2.4-pie-chart.md)
     * [2.2.5 Scatter Chart](tricks-in-visualisation/features-of-different-charts/2.5-scatter-chart.md)
     * [2.2.6  Map Chart](tricks-in-visualisation/features-of-different-charts/2.6-map-chart.md)
-  * [2.3 Misleading Graph](tricks-in-visualisation/2.3-tricks-in-visualization.md)
+  * [2.3 Misused Graph](tricks-in-visualisation/2.3-tricks-in-visualization.md)
   * [2.4 Tips in Visualization](tricks-in-visualisation/2.5-dos-and-donts-in-visualization.md)
 * [3. Matplotlib](matplotlib/README.md)
   * [3.1 Basic Concepts](matplotlib/basic-plot.md)
